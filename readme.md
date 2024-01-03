@@ -4,9 +4,9 @@
         <samp>
             what i know.
             <br>
-            &nbsp;languages: javscript/typescript, java, python, html/css
+            &nbsp;languages: javscript / typescript, java, python, html / css
             <br>
-            &nbsp;databases: mongodb, mysql
+            &nbsp;databases: mongodb, mysql / sqlite
             <br>
             <br>
         </samp>
