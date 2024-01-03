@@ -12,12 +12,11 @@
         </samp>
         <!-- past projects -->
         <samp>
-        projects.
+        past projects.
         <br>
         namemc scraper (<a href="https://shibas.dev">shibas.dev</a> / <a href="https://doges.ninja">doges.ninja</a>)
         <br>
         &nbsp;- python + flask, web scraping, browser automation
-        <br>
         <br>
         minecraft generator core
         <br>
@@ -36,6 +35,7 @@
         <br>
         <br>
         <img src="https://komarev.com/ghpvc/?username=lilyvxv&style=flat-square&color=F5A9B8&label=views">
+        <img src="https://img.shields.io/badge/Freelancer-F5A9B8?style=flat-square&logo=Freelancer&logoColor=white">
     </p>
 </p>
 
