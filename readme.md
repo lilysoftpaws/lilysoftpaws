@@ -4,11 +4,29 @@
         <samp>
             what i know.
             <br>
-            languages: javscript/typescript, python, java, html/css
+            languages: javscript/typescript, java, python, html/css
             <br>
-            databases: mongodb, my/sql/lite
+            databases: mongodb, mysql
             <br>
             <br>
+        </samp>
+        <!-- past projects -->
+        <samp>
+        projects.
+        <br>
+        namemc scraper (<a href="https://shibas.dev">shibas.dev</a> / <a href="https://doges.ninja">doges.ninja</a>)
+        <br>
+        &nbsp;- python + flask, web scraping, browser automation
+        <br>
+        <br>
+        minecraft generator core
+        <br>
+        &nbsp;- java, papermc api, data storage / sqlite
+        </samp>
+        <br>
+        <br>
+        <!-- hyperlinks -->
+        <samp>
             <a href="https://lily.pet">website</a>
             ~
             <a href="https://discord.com/users/712615825965711391/">discord</a>
