@@ -1,7 +1,9 @@
 <p float="left">
-    <img align="left" width="250px" src="./images/53ae832131906db13c21ab036e6a796a.jpg">
+<img align="left" width="250px" src="./images/sea-blue-anime-background-wallpaper.jpg" style="margin-bottom: -200px;">
     <p float="left">
         <samp>
+            what i know.
+            <br>
             languages: javscript/typescript, python, java, html/css
             <br>
             databases: mongodb, my/sql/lite
