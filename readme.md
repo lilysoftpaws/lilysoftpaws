@@ -26,7 +26,6 @@
         <br>
         &nbsp;- javascript, discord.js, webscraping, data storage / json
         </samp>
-        
         <br>
         <br>
         <!-- hyperlinks -->
