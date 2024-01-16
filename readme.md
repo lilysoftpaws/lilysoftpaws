@@ -21,7 +21,12 @@
         &nbsp;minecraft generator core
         <br>
         &nbsp;- java, papermc api, data storage / sqlite
+        <br>
+        &nbsp;discord music bot
+        <br>
+        &nbsp;- javascript, discord.js, webscraping, data storage / json
         </samp>
+        
         <br>
         <br>
         <!-- hyperlinks -->
