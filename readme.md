@@ -34,7 +34,7 @@
             ~
             <a href="https://discord.com/users/712615825965711391/">discord</a>
             ~
-            <a href="https://twitter.com/lilythcta">twitter</a>
+            <a href="https://twitter.com/lilythecta">twitter</a>
         </samp>
         <br>
         <br>
