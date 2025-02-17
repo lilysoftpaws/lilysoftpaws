@@ -1,12 +1,12 @@
 <p float="left">
-    <img align="left" width="200px" src="banner.png">
+    <img align="left" width="200" src="banner.png" alt="banner">
     <p float="left">
         <samp>
             what i know.
             <br>
             &nbsp;languages: javascript / typescript; html / css; java / kotlin; python;
             <br>
-            &nbsp;databases: mongo; sql
+            &nbsp;databases: mongo; sql (postgres / sqlite / mariadb)
             <br>
             <br>
         </samp>
