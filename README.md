@@ -1,12 +1,12 @@
 <p float="left">
-    <img align="left" width="250px" src="./images/sea-blue-anime-background-wallpaper.png">
+    <img align="left" width="200px" src="banner.png">
     <p float="left">
         <samp>
             what i know.
             <br>
-            &nbsp;languages: javscript / typescript, java, python, html / css
+            &nbsp;languages: javascript / typescript; html / css; java / kotlin; python;
             <br>
-            &nbsp;databases: mongodb, mysql / sqlite
+            &nbsp;databases: mongo; sql
             <br>
             <br>
         </samp>
@@ -16,15 +16,15 @@
         <br>
         &nbsp;namemc scraper (<a href="https://shibas.dev">shibas.dev</a> / <a href="https://doges.ninja">doges.ninja</a>)
         <br>
-        &nbsp;- python + flask, web scraping, browser automation
+        &nbsp;- python / flask, web-scraping, browser automation
         <br>
         &nbsp;minecraft generator core
         <br>
-        &nbsp;- java, papermc api, data storage / sqlite
+        &nbsp;- kotlin, bukkit api, sql
         <br>
         &nbsp;discord music bot
         <br>
-        &nbsp;- javascript, discord.js, webscraping, data storage / json
+        &nbsp;- typescript, discord.js, web-scraping, sql
         </samp>
         <br>
         <br>
@@ -34,7 +34,7 @@
             ~
             <a href="https://discord.com/users/712615825965711391/">discord</a>
             ~
-            <a href="https://twitter.com/lilythecta">twitter</a>
+            <a href="https://twitter.com/lilysoftpaws">twitter</a>
         </samp>
         <br>
         <br>
